@@ -26,4 +26,7 @@ $ python3 SineGen.py -f 1000 -b 24 -s 48000 -v 1.0 -n MySineWave.wav
 ```
 
 ## Dependencies
-`None`
+ * Python 3.x
+ * GetArgs (github.com/vindennl48/getargs)
+
+ 
