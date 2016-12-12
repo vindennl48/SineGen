@@ -12,7 +12,7 @@ parameters:
 ## How To Use
 
 The __SineGen__ is simple to use.  If you wish to keep any default values, 
-simplpy, do not add a flag for those values.  For a list of possible flags and
+simply do not add a flag for those values.  For a list of possible flags and
 default values:
 
 ```
